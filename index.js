@@ -31,7 +31,7 @@ var originalFlavors = ["Banana Nut Fudge",
     "Vanilla Burnt Almond"]
 
 /* Task 1: Confirm that the array is exactly 31 flavors. Your function should accept:
-
+//start
 (1) an array 
 
 Your function should return a boolean TRUE if the length of the array is 31 and FALSE if the length of the array is NOT 31.
